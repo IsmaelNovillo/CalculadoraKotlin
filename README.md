@@ -2,7 +2,9 @@
 ##  Android Studio
 <br>
 
-![image](https://github.com/user-attachments/assets/844eb8d9-6462-4274-89bb-50fb089f6865)
+
+![image](https://github.com/user-attachments/assets/573ef8bf-c920-478b-a57a-97cccdbdbc2c)
+
 
 ## Celular
 <br>
