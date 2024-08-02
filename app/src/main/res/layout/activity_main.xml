@@ -88,10 +88,12 @@
             android:text="/"
             android:onClick="onOperatorClick"
             style="@style/CalculatorButton"/>
+
         <Button
-            android:text="="
+            style="@style/CalculatorButton"
+            android:backgroundTint="#E28B8B"
             android:onClick="onEqualsClick"
-            style="@style/CalculatorButton"/>
+            android:text="=" />
 
         <!-- Trigonometric functions -->
         <Button
@@ -109,8 +111,9 @@
 
         <!-- Clear button -->
         <Button
-            android:text="C"
+            style="@style/CalculatorButton"
+            android:backgroundTint="#EFA7A7"
             android:onClick="onClearClick"
-            style="@style/CalculatorButton"/>
+            android:text="C" />
     </GridLayout>
 </LinearLayout>

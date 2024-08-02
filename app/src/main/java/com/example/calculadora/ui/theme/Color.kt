@@ -2,10 +2,10 @@ package com.example.calculadora.ui.theme
 
 import androidx.compose.ui.graphics.Color
 
-val Purple80 = Color(0xFFD0BCFF)
-val PurpleGrey80 = Color(0xFFCCC2DC)
-val Pink80 = Color(0xFFEFB8C8)
+val Green80 = Color(0xFFC8E6C9) // Un tono verde claro
+val GreenGrey80 = Color(0xFFB0BEC5) // Un tono verde grisáceo claro
+val LightGreen80 = Color(0xFFDCEDC8) // Un tono verde más claro
 
-val Purple40 = Color(0xFF6650a4)
-val PurpleGrey40 = Color(0xFF625b71)
-val Pink40 = Color(0xFF7D5260)
+val Green40 = Color(0xFF388E3C) // Un tono verde oscuro
+val GreenGrey40 = Color(0xFF4E7D67) // Un tono verde grisáceo más oscuro
+val LightGreen40 = Color(0xFF8BC34A) // Un tono verde claro medio
