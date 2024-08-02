@@ -3,10 +3,12 @@
 <br>
 
 
-![image](https://github.com/user-attachments/assets/573ef8bf-c920-478b-a57a-97cccdbdbc2c)
+
+![image](https://github.com/user-attachments/assets/db94ccd4-1fda-4bc3-8ce2-7bf3d1107a1b)
 
 
 ## Celular
 <br>
 
-![WhatsApp Image 2024-07-31 at 20 49 23](https://github.com/user-attachments/assets/daeec61c-1dbf-49a2-b8ee-cf11a69e2cd7)
+
+![image](https://github.com/user-attachments/assets/ff5b9df1-4cd0-4dac-893a-6a65b2d9dc95)
